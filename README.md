@@ -1,3 +1,13 @@
+> ⚠️ **Out of Office: Nov 1 - Nov 13, 2026**  
+> I am currently away with limited access to GitHub. I will review and respond to all issues, PRs, and messages promptly upon my return on **November 14th**. Thank you for your patience and understanding!
+
+---
+
+# Hi 👋 I'm RMDTJ1914
+... (後面保持你原本的內容不變)
+
+
+
 # Hi 👋 I'm RMDTJ1914
 
 **Documentation Specialist | Open Source Contributor | AI-Assisted Workflow**
