@@ -1,23 +1,84 @@
 # Hi 👋 I'm RMDTJ1914
 
-Learning Git & open source contribution, focusing on **practical, small wins**.
+**Documentation Specialist | Open Source Contributor | AI-Assisted Workflow**
 
-## 🎯 Current Focus
-- **Weekly Availability**: Actively shipping 1-2 PRs (Pull Requests，程式修改請求) per week.
-- **Monthly Goal**: Building consistent momentum + targeting weekly bounties (small cash rewards, e.g., $50/wk).
-- **Sweet Spot**: Docs, typos, and beginner-friendly issues. I follow the 'minimum cost, maximum visibility' path.
+I help open-source projects ship **cleaner, clearer documentation** with fast turnaround and professional quality.
 
-## 🛠️ My Sandbox
-- [`sandbox`](https://github.com/RMDTJ1914/sandbox): Practice repo for Git/workflows.
-- [`learn`](https://github.com/RMDTJ1914/learn): Currently contributing (first PR shipped 🚀).
+---
 
-## 🤝 Open to Collaborate
-- Reliable for **recurring small tasks** (weekly/monthly).
-- Happy to help with documentation, testing, or minor fixes.
-- Fast communicator, eager to learn, and respectful of review feedback.
+##  Services I Offer
 
-## 💡 Philosophy
-"Don't take the hardest road; take the easiest road to win."
-Mimic, assemble, ship, and iterate via high-frequency trial & error.
+### 📝 Documentation Maintenance
+- **Fix typos & formatting issues** - Clean, professional docs
+- **Update outdated information** - Keep your docs current
+- **Improve readability** - Better structure & clarity
+- **Translation (EN ↔ ZH)** - Bilingual support
 
-📫 Reach me via GitHub Issues/PRs. Let's build!
+### 🏗️ Community Infrastructure
+- **Issue templates** - Bug reports, feature requests
+- **PR templates** - Standardized contribution workflow
+- **Contributing guides** - Help newcomers contribute
+- **Code of Conduct** - Professional community standards
+
+### 🎯 First-PR Assistance
+- Review documentation issues
+- Help newcomers submit their first PR
+- Clean up code comments
+
+---
+
+##  Why Work With Me?
+
+✅ **Fast Turnaround** - Most tasks completed within 24-48 hours  
+✅ **AI-Assisted + Human Review** - Efficiency meets quality  
+✅ **Detail-Oriented** - Every typo matters  
+✅ **Reliable** - Consistent weekly availability  
+✅ **Respectful** - Open to feedback and iteration  
+
+---
+
+##  Available for Paid Tasks
+
+**Rates:**
+- Documentation maintenance: **$10/hour** or **$50/week** (part-time)
+- Translation: **$0.05/word**
+- Template creation: **$15-30/project**
+
+**Weekly Availability:** 5-10 hours
+
+**Contact:** Open an issue on this profile or email: [你的ProtonMail郵箱]
+
+---
+
+## ️ Tech Stack & Tools
+
+- **Version Control:** Git, GitHub
+- **Documentation:** Markdown, GitHub Wikis
+- **AI Tools:** AI-assisted writing + manual review
+- **Focus Areas:** JavaScript, Python, general OSS projects
+
+---
+
+## 📈 Recent Contributions
+
+- [Added community templates to Code-Timer-Tracker](https://github.com/mokashreef/Code-Timer-Tracker/pull/8) - Issue templates, PR templates, Contributing guide
+
+---
+
+## 🎯 Philosophy
+
+> "Great documentation is the bridge between great code and great users."
+
+I believe in **practical, incremental improvements** over perfection. Small, consistent contributions create lasting impact.
+
+---
+
+## 📬 Let's Work Together!
+
+Looking for someone to maintain your project's documentation? Need help cleaning up typos or creating contribution guides?
+
+**I'm here to help!** Open an issue on this profile or reach out directly. Let's make open-source documentation better together!
+
+---
+
+*Last updated: October 2026*
