@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm RMDTJ1914
 
-<!--
-**RMDTJ1914/RMDTJ1914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning Git & open source contribution, focusing on **practical, small wins**.
 
-Here are some ideas to get you started:
+## 🎯 Current Focus
+- **Weekly Availability**: Actively shipping 1-2 PRs (Pull Requests，程式修改請求) per week.
+- **Monthly Goal**: Building consistent momentum + targeting weekly bounties (small cash rewards, e.g., $50/wk).
+- **Sweet Spot**: Docs, typos, and beginner-friendly issues. I follow the 'minimum cost, maximum visibility' path.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Sandbox
+- [`sandbox`](https://github.com/RMDTJ1914/sandbox): Practice repo for Git/workflows.
+- [`learn`](https://github.com/RMDTJ1914/learn): Currently contributing (first PR shipped 🚀).
+
+## 🤝 Open to Collaborate
+- Reliable for **recurring small tasks** (weekly/monthly).
+- Happy to help with documentation, testing, or minor fixes.
+- Fast communicator, eager to learn, and respectful of review feedback.
+
+## 💡 Philosophy
+"Don't take the hardest road; take the easiest road to win."
+Mimic, assemble, ship, and iterate via high-frequency trial & error.
+
+📫 Reach me via GitHub Issues/PRs. Let's build!
